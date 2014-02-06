@@ -1,10 +1,10 @@
 ﻿##Basic idea
 
-Just run the solution from command line and you get a rest interface on localhost:8080 for any json data.
-
 The data stores as Json in Esent (the native windows data sln).
 
 See sample implementation in https://github.com/joeriks/Almhult
+
+(Just run the command line project in Almhult and you get a rest interface on localhost:8080 for any json data.)
 
 ###Built in REST-interface
 

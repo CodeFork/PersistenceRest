@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PersistenceRest.EsentJson.Owin</id>
+    <version>0.0.1-beta</version>
+    <title>Owin Middleware - PersistenceRest with EsentJsonStorage</title>
+    <authors>joeriks</authors>
+    <owners>joeriks</owners>
+        <projectUrl>https://github.com/joeriks/PersistenceRest</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add to Owin and get restful and signalr interfaces for CRUD operations with any Json data.</description>
+    <releaseNotes>Prerelease.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Owin Persistence Rest Esent</tags>
+  </metadata>
+</package>
